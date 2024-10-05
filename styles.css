@@ -1,0 +1,36 @@
+body{
+	padding: 0 20% 0 20%;
+	background: #000;
+	color: #fff;
+	font-family: "JetBrains Mono";
+}
+
+h1{
+	font-family: "JetBrains Mono";
+	font-weight: 800;
+}
+
+.work-title{
+	font-weight: 800;
+	margin-bottom: 0;
+}
+.work-date{
+	font-weight: 700;
+}
+
+.work-ex{
+	margin: 2%;
+}
+
+.flex{
+	display: flex;
+	justify-content: space-between;
+}
+
+@media only screen and (orientation: portrait) {
+body{
+	padding: 0 10% 0 10%;
+}
+
+}
+
