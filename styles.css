@@ -28,9 +28,12 @@ h1{
 }
 
 @media only screen and (orientation: portrait) {
-body{
-	padding: 0 10% 0 10%;
+	body{
+		padding: 0 10% 0 10%;
+	}
 }
 
-}
+ul{
+	opacity: 0.85;
 
+}
